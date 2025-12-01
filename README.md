@@ -106,11 +106,10 @@ Strategi: penetrasi ke Asia Tenggara, Afrika, dan Amerika Selatan dengan lokalis
 
 # **📁 Dashboard Link**
 
-(Lampirkan link Looker Studio kamu)
-`https://lookerstudio.google.com/reporting/....`
+https://lookerstudio.google.com/reporting/2c5d62b2-fa29-488d-809a-7670e2651495
 
 ---
-
+<!-- 
 # **📂 Repository Structure (Opsional)**
 
 ```
@@ -119,4 +118,4 @@ Strategi: penetrasi ke Asia Tenggara, Afrika, dan Amerika Selatan dengan lokalis
 ├── master_table.sql
 ├── dashboard/
 └── README.md
-```
+``` -->
